@@ -38,8 +38,8 @@
 - Authorize GitHub Classroom.
   - This allows GitHub Classroom to create your repositories.
 - Find and select your DigiPen email in the *Identifiers* list.
-- Join the existing "students" group. You willl **not** be able to create a new team. The team name may reflect the current semester.
-  ![image](https://github.com/user-attachments/assets/fe2131b2-e824-4c79-8f48-ac6c48014b14)
+- Join the existing "everyone" group. You willl **not** be able to create a new team. The team name may reflect the current semester.
+  ![image](https://github.com/user-attachments/assets/1169e62b-61e1-439b-802d-917ac5dd694b)
 - Select: *Accept this assignment*
   - This will add you to the appropriate "students" groups which gives you access to the GitHub Org.
   - If this step fails, message me and we will get it fixed.
