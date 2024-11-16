@@ -1,4 +1,4 @@
-# DigiPen GitHug Education Demo - Getting Started with GitHub Classroom
+# DigiPen GitHub Education Demo - Getting Started with GitHub Classroom
 
 **Sign in to GitHub or Create an account If you already have a GitHub account proceed to the next step.**
 
